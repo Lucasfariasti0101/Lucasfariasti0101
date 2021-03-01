@@ -11,6 +11,6 @@ I am currently doing college in computer networks, acquiring very interesting kn
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Lucasfariasti0101)
 
-
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/EusouLucasFari)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-farias-94a4a519a/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/lucasdsaf/)
